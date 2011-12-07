@@ -2,9 +2,9 @@
 
 return array(
     'mongo'=>array(
-	'host'=>'173.220.194.84',
+	'host'=>'localhost:27017',
 	'collection'=>'sessions',
-	'db'=>'gonation_test',
+	'db'=>'db',
 	'contents_key'=>'session_contents'
     )
 );
